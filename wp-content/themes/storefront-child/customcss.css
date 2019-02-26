@@ -1,0 +1,8 @@
+.type-page img {
+  padding: 0px;
+  border: 0px;
+  background: none;
+  max-width: 100%;
+  height: auto !important;
+  display: block;
+}
